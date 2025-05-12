@@ -6,7 +6,7 @@
     <title>Quvanchbekning Portfolio</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body> 
     <nav>
         <ul>
             <li><a href="#home">Bosh Sahifa</a></li>
